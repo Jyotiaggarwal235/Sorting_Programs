@@ -1,6 +1,8 @@
 # Sorting_Programs
 #Bubble Sort:
-  begin BubbleSort(list)
+ 
+ 
+ begin BubbleSort(list)
 
    for all elements of list
       if list[i] > list[i+1]
@@ -14,7 +16,10 @@ end BubbleSort
 
 
 #Quick Sort:
-   quickSort(arr[], low, high)
+ 
+ 
+ 
+ quickSort(arr[], low, high)
 {
     if (low < high)
     {
